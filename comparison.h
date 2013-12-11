@@ -1,10 +1,8 @@
-//
-//  comparison.h
-//  program 3
-//
-//  Created by Brandon Craven on 12/10/13.
-//  Copyright (c) 2013 Brandon Craven. All rights reserved.
-//
+/*
+ Learned out to do this bit of code with help from this website:
+ 
+ http://www.cplusplus.com/reference/queue/priority_queue/priority_queue/
+ */
 
 #ifndef __program_3__comparison__
 #define __program_3__comparison__
