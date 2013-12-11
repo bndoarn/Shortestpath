@@ -1,0 +1,23 @@
+Name: Brandon Craven
+
+Compiling the code
+
+$>make
+
+Running the code
+
+$>./Shortestpaths.x <filename> <source> <integer k>
+
+The file containing the graph should be in the form:
+
+D
+<Node1> <Node2> <weight>
+
+for a directed graph and:
+
+UD
+<Node1> <Node2> <weight>
+
+for an undirected graph.
+
+nodes should be in the form of capital alphabetic characters and weights should be non-negative integers.
