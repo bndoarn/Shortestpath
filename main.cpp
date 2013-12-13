@@ -13,6 +13,7 @@
 #include <map>
 #include <queue>
 #include <limits>
+#include <cstdlib>
 #include "node.h"
 #include "comparison.h"
 
